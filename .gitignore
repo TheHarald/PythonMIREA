@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/
+venv/
+# Datasource local storage ignored files
+/../../../../:\pythonProjects\PythonMIREA\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
